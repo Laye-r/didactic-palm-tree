@@ -1,2 +1,3 @@
 # didactic-palm-tree
-1as
+
+mod based on goldsrc engine
